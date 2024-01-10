@@ -35,7 +35,8 @@ APPLICATION_TYPE,	AFFILIATION	,CLASSIFICATION,	USE_CASE, ORGANIZATION,	STATUS,	I
 yes
 
 3. What steps did you take in your attempts to increase model performance?
-converting the "Name" column in to data points which has the biggest impact on improving efficiency but costly and it requires adding the third layer using "sigmoid" activation function.
+   
+**Answers** converting the "Name" column in to data points which has the biggest impact on improving efficiency but costly and it requires adding the third layer using "sigmoid" activation function.
 
 # Summary: Summarize the overall results of the deep learning model.
 Overall the accuracy is above 75 %. An applicant has a 78% chance of being successful if they follow the below guidelines:
@@ -43,6 +44,12 @@ Overall the accuracy is above 75 %. An applicant has a 78% chance of being succe
 Name of applicants appear more than 5 times.
 Type of application following T3, T4, T5, T6, T7, T8, T10, T19 
 application of following classification 
+
+C1000    
+C2000     
+C1200          
+C3000     
+C2100
 
 
 
